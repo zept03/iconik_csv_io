@@ -1,6 +1,6 @@
 config.ini
-myenv/
+/myenv/
 collections_hierarchy.csv
 [JAR]_Populate_Metadata.csv
-CSV Outputs/
+/CSV Outputs/
 iconik_csv_io_v2.py
